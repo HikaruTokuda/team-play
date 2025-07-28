@@ -74,9 +74,7 @@ jobs:
       - name: pwd
         run: pwd
       - name: Build with Hugo |
-        run: hugo \
-             pwd
-           
+        run: hugo           
       - name: Cache Save
         id: cache-save
         uses: actions/cache/save@v4
