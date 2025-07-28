@@ -73,8 +73,9 @@ jobs:
         run: cd ./docs/specifications
       - name: pwd
         run: pwd
-      - name: Build with Hugo
-        run: hugo
+      - name: Build with Hugo |
+        run: hugo \
+             pwd
            
       - name: Cache Save
         id: cache-save
