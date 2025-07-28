@@ -69,12 +69,12 @@ jobs:
             hugo-
       - name: Configure Git
         run: git config core.quotepath false
-      - name: cd
-        run: cd ./docs/specifications
       - name: pwd
         run: pwd
       - name: tree
         run: tree
+      - name: cd
+        run: cd ./docs/specifications
       - name: Build with Hugo |
         run: hugo           
       - name: Cache Save
