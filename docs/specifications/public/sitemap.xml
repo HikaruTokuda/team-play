@@ -2,158 +2,156 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/rd/</loc>
+    <loc>https://example.com/rd/</loc>
   </url><url>
-    <loc>http://localhost:1313/bd/markdown-syntax/</loc>
-    <lastmod>2020-11-17T15:26:15+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/bd/</loc>
-    <lastmod>2020-11-17T15:26:15+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/bd/built-in-shortcodes/</loc>
+    <loc>https://example.com/chapter2/3/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter2/3/</loc>
-    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+    <loc>https://example.com/rd/fr/</loc>
   </url><url>
-    <loc>http://localhost:1313/bd/custom-shortcodes/</loc>
-    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+    <loc>https://example.com/bd/</loc>
   </url><url>
-    <loc>http://localhost:1313/bd/table-of-contents/</loc>
-    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+    <loc>https://example.com/bd/workflow/</loc>
   </url><url>
-    <loc>http://localhost:1313/rd/fr/</loc>
-  </url><url>
-    <loc>http://localhost:1313/posts/hello_world/</loc>
+    <loc>https://example.com/posts/hello_world/</loc>
     <lastmod>2017-10-17T14:00:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter1/</loc>
+    <loc>https://example.com/chapter1/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter2/4/</loc>
+    <loc>https://example.com/chapter2/4/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rd/nfr/</loc>
+    <loc>https://example.com/rd/nfr/</loc>
   </url><url>
-    <loc>http://localhost:1313/chapter2/</loc>
+    <loc>https://example.com/bd/functions/</loc>
+  </url><url>
+    <loc>https://example.com/chapter2/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter2/2/</loc>
+    <loc>https://example.com/chapter2/2/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter2/1/</loc>
+    <loc>https://example.com/bd/nw-architecture/</loc>
+  </url><url>
+    <loc>https://example.com/chapter2/1/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter3/</loc>
+    <loc>https://example.com/chapter3/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter4/</loc>
+    <loc>https://example.com/bd/table-definition/</loc>
+  </url><url>
+    <loc>https://example.com/chapter4/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2020-11-17T15:26:15+00:00</lastmod>
+    <loc>https://example.com/bd/er/</loc>
   </url><url>
-    <loc>http://localhost:1313/bd/search-shortcode/</loc>
-    <lastmod>2020-03-30T18:49:06+00:00</lastmod>
+    <loc>https://example.com/bd/layouts/</loc>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://example.com/bd/if-definition/</loc>
+  </url><url>
+    <loc>https://example.com/archives/</loc>
     <lastmod>2017-12-17T14:00:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://example.com/blog/</loc>
     <lastmod>2017-12-17T14:00:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/entry/</loc>
+    <loc>https://example.com/entry/</loc>
     <lastmod>2017-12-17T14:00:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/hello_world2/</loc>
+    <loc>https://example.com/archives/hello_world2/</loc>
     <lastmod>2017-12-17T14:00:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/hello_world2/</loc>
+    <loc>https://example.com/blog/hello_world2/</loc>
     <lastmod>2017-12-17T14:00:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/entry/hello_world2/</loc>
+    <loc>https://example.com/entry/hello_world2/</loc>
     <lastmod>2017-12-17T14:00:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/hello_world1/</loc>
+    <loc>https://example.com/</loc>
+    <lastmod>2017-12-17T14:00:45+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/archives/hello_world1/</loc>
     <lastmod>2017-11-17T14:00:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/hello_world1/</loc>
+    <loc>https://example.com/blog/hello_world1/</loc>
     <lastmod>2017-11-17T14:00:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/entry/hello_world1/</loc>
+    <loc>https://example.com/entry/hello_world1/</loc>
     <lastmod>2017-11-17T14:00:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter1/1/</loc>
+    <loc>https://example.com/chapter1/1/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter1/2/</loc>
+    <loc>https://example.com/chapter1/2/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter1/3/</loc>
+    <loc>https://example.com/chapter1/3/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter1/4/</loc>
+    <loc>https://example.com/chapter1/4/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter2/5/</loc>
+    <loc>https://example.com/chapter2/5/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter3/1/</loc>
+    <loc>https://example.com/chapter3/1/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter3/chapter3-2/</loc>
+    <loc>https://example.com/chapter3/chapter3-2/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter3/chapter3-2/1/</loc>
+    <loc>https://example.com/chapter3/chapter3-2/1/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter3/chapter3-2/2/</loc>
+    <loc>https://example.com/chapter3/chapter3-2/2/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter3/chapter3-2/3/</loc>
+    <loc>https://example.com/chapter3/chapter3-2/3/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter3/chapter3-2/4/</loc>
+    <loc>https://example.com/chapter3/chapter3-2/4/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter3/3/</loc>
+    <loc>https://example.com/chapter3/3/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter3/4/</loc>
+    <loc>https://example.com/chapter3/4/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter4/chapter4-1/</loc>
+    <loc>https://example.com/chapter4/chapter4-1/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter4/chapter4-1/chapter4-1-1/</loc>
+    <loc>https://example.com/chapter4/chapter4-1/chapter4-1-1/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter4/chapter4-1/chapter4-1-1/chapter4-1-1-1/</loc>
+    <loc>https://example.com/chapter4/chapter4-1/chapter4-1-1/chapter4-1-1-1/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter4/chapter4-1/chapter4-1-1/chapter4-1-1-1/chapter4-1-1-1-1/</loc>
+    <loc>https://example.com/chapter4/chapter4-1/chapter4-1-1/chapter4-1-1-1/chapter4-1-1-1-1/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter4/chapter4-1/chapter4-1-1/chapter4-1-1-1/chapter4-1-1-1-1/chapter4-1-1-1-1-1/</loc>
+    <loc>https://example.com/chapter4/chapter4-1/chapter4-1-1/chapter4-1-1-1/chapter4-1-1-1-1/chapter4-1-1-1-1-1/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chapter4/chapter4-1/chapter4-1-1/chapter4-1-1-1/chapter4-1-1-1-1/chapter4-1-1-1-1-1/chapter4-1-1-1-1-1-1/</loc>
+    <loc>https://example.com/chapter4/chapter4-1/chapter4-1-1/chapter4-1-1-1/chapter4-1-1-1-1/chapter4-1-1-1-1-1/chapter4-1-1-1-1-1-1/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/hello_world/</loc>
+    <loc>https://example.com/archives/hello_world/</loc>
     <lastmod>2017-10-17T14:00:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/hello_world/</loc>
+    <loc>https://example.com/blog/hello_world/</loc>
     <lastmod>2017-10-17T14:00:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/entry/hello_world/</loc>
+    <loc>https://example.com/entry/hello_world/</loc>
     <lastmod>2017-10-17T14:00:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://example.com/posts/</loc>
     <lastmod>2017-10-17T14:00:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.com/tags/</loc>
   </url>
 </urlset>

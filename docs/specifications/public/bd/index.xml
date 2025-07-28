@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>基本設計 on TeamPlay(仮) documents</title>
-    <link>http://localhost:1313/bd/</link>
+    <link>https://example.com/bd/</link>
     <description>Recent content in 基本設計 on TeamPlay(仮) documents</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/bd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/bd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>業務フロー図</title>
-      <link>http://localhost:1313/bd/workflow/</link>
+      <link>https://example.com/bd/workflow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bd/workflow/</guid>
+      <guid>https://example.com/bd/workflow/</guid>
       <description>&lt;h2 id=&#34;業務フロー図&#34;&gt;業務フロー図&lt;/h2&gt;</description>
     </item>
     <item>
       <title>機能一覧</title>
-      <link>http://localhost:1313/bd/functions/</link>
+      <link>https://example.com/bd/functions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bd/functions/</guid>
+      <guid>https://example.com/bd/functions/</guid>
       <description>&lt;h2 id=&#34;機能一覧&#34;&gt;機能一覧&lt;/h2&gt;</description>
     </item>
     <item>
       <title>NW構成図</title>
-      <link>http://localhost:1313/bd/nw-architecture/</link>
+      <link>https://example.com/bd/nw-architecture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bd/nw-architecture/</guid>
+      <guid>https://example.com/bd/nw-architecture/</guid>
       <description>&lt;h2 id=&#34;nw構成図&#34;&gt;NW構成図&lt;/h2&gt;</description>
     </item>
     <item>
       <title>テーブル定義</title>
-      <link>http://localhost:1313/bd/table-definition/</link>
+      <link>https://example.com/bd/table-definition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bd/table-definition/</guid>
+      <guid>https://example.com/bd/table-definition/</guid>
       <description>&lt;h2 id=&#34;テーブル定義&#34;&gt;テーブル定義&lt;/h2&gt;</description>
     </item>
     <item>
       <title>ER図</title>
-      <link>http://localhost:1313/bd/er/</link>
+      <link>https://example.com/bd/er/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bd/er/</guid>
+      <guid>https://example.com/bd/er/</guid>
       <description>&lt;h2 id=&#34;er図&#34;&gt;ER図&lt;/h2&gt;</description>
     </item>
     <item>
       <title>画面定義</title>
-      <link>http://localhost:1313/bd/layouts/</link>
+      <link>https://example.com/bd/layouts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bd/layouts/</guid>
+      <guid>https://example.com/bd/layouts/</guid>
       <description>&lt;h2 id=&#34;画面定義&#34;&gt;画面定義&lt;/h2&gt;</description>
     </item>
     <item>
       <title>外部IF定義</title>
-      <link>http://localhost:1313/bd/if-definition/</link>
+      <link>https://example.com/bd/if-definition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bd/if-definition/</guid>
+      <guid>https://example.com/bd/if-definition/</guid>
       <description>&lt;h2 id=&#34;外部if定義&#34;&gt;外部IF定義&lt;/h2&gt;</description>
     </item>
   </channel>
