@@ -70,11 +70,11 @@ jobs:
       - name: Configure Git
         run: git config core.quotepath false
       - name: cd
-        run: |
-          cd ./docs/specifications
+        run: cd ./docs/specifications
+      - name: pwd
+        run: pwd
       - name: Build with Hugo
-        run: |
-          hugo
+        run: hugo
            
       - name: Cache Save
         id: cache-save
