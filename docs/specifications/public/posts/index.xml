@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on TeamPlay(仮) documents</title>
-    <link>https://example.com/posts/</link>
+    <link>https://hikarutokuda.github.io/team-play/posts/</link>
     <description>Recent content in Posts on TeamPlay(仮) documents</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Oct 2017 14:00:45 +0000</lastBuildDate>
-    <atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hikarutokuda.github.io/team-play/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello_world</title>
-      <link>https://example.com/posts/hello_world/</link>
+      <link>https://hikarutokuda.github.io/team-play/posts/hello_world/</link>
       <pubDate>Tue, 17 Oct 2017 14:00:45 +0000</pubDate>
-      <guid>https://example.com/posts/hello_world/</guid>
+      <guid>https://hikarutokuda.github.io/team-play/posts/hello_world/</guid>
       <description>&lt;p&gt;aaaaaa&lt;/p&gt;&#xA;&lt;p&gt;vvvv&lt;/p&gt;&#xA;&lt;p&gt;aaa&lt;/p&gt;</description>
     </item>
   </channel>
