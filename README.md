@@ -1,1 +1,1 @@
-"# team-play" 
+[Documents](https://hikarutokuda.github.io/team-play/)
