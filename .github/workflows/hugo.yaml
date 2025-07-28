@@ -74,7 +74,7 @@ jobs:
       - name: tree
         run: tree
       - name: cd
-        run: cd ./docs/specifications
+        run: sudo cd ./docs/specifications
       - name: Build with Hugo |
         run: hugo           
       - name: Cache Save
