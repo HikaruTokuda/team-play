@@ -72,6 +72,7 @@ jobs:
       - name: Build with Hugo
         run: |
           cd ./docs/specifications \
+        run: |
           hugo \
            
       - name: Cache Save
