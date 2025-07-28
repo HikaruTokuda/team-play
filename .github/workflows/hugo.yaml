@@ -70,7 +70,7 @@ jobs:
       - name: Configure Git
         run: git config core.quotepath false
       - name: cd
-        run: cd home/runner/work/team-play/team-play/docs/specifications
+        run: cd ./docs/specifications
       - name: pwd
         run: pwd
       - name: tree
