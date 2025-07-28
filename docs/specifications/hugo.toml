@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://hikarutokuda.github.io/team-play/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
@@ -13,7 +13,9 @@ defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
 
 [params]
-
+    BookRepo = 'https://github.com/HikaruTokuda/team-play'
+    BookCommitPath = 'commit'
+    BookServiceWorker = true
     # Source Code repository section
     description = "Team Play(仮) 仕様書"
     # github_repository = "https://github.com/thingsym/hugo-theme-techdoc"
