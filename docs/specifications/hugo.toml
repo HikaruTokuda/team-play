@@ -12,6 +12,10 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
     BookRepo = 'https://github.com/HikaruTokuda/team-play'
     BookCommitPath = 'commit'
