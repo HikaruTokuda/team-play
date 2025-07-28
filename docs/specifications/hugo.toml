@@ -4,7 +4,7 @@ languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "TeamPlay(仮) documents"
 theme = "hugo-theme-techdoc-master"
-publishDir = "docs/specifications"
+
 
 hasCJKLanguage = true
 metaDataFormat = "yaml"
