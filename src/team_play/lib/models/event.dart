@@ -23,7 +23,7 @@ class Event {
       teamId: json['team_id'] as String, 
       eventDate: DateTime.parse(json['event_date'] as String), 
       venue: json['venue'] as String, 
-      fee: json['fee'] as int
+      fee: int.parse(json['fee'] as String)
     );
   }
 }

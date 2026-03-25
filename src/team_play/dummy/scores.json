@@ -1,0 +1,50 @@
+[
+  {
+    "game_id": "game1",
+    "event_id": "eventA1",
+    "innings": 7,
+    "bat_first": false,
+    "score": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "game_id": "game2",
+    "event_id": "eventA3",
+    "innings": 5,
+    "bat_first": true,
+    "score": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        5,
+        4,
+        3,
+        2,
+        0
+      ]
+    ]
+  }
+]
