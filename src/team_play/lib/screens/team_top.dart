@@ -92,6 +92,10 @@ class _TeamTop extends State<TeamTop>  {
           );
         },
       ),
+      floatingActionButton: FloatingActionButton(        
+        child: Icon(Icons.add),
+        onPressed: () {}
+      ),
     );
   }
 
@@ -104,7 +108,7 @@ class _TeamTop extends State<TeamTop>  {
       });
     }).toList();
     List<Event> events = eventList.map((i) => new Event.fromJson(i)).toList();
-    events.forEach((event) => print('eventName: ${event.eventName} eventDate: ${event.eventDate}'));
+    // events.forEach((event) => print('eventName: ${event.eventName} eventDate: ${event.eventDate}'));
     return events;
   }
 }
