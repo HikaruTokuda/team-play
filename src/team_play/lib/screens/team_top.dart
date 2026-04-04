@@ -5,6 +5,7 @@ import 'package:team_play/models/score.dart';
 import 'package:team_play/models/team.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:intl/intl.dart';
+import 'package:team_play/screens/event_detail.dart';
 
 class TeamTop extends StatefulWidget {
   const TeamTop({super.key});
@@ -43,50 +44,58 @@ class _TeamTop extends State<TeamTop>  {
               return Container(
                 height: 180,
                 margin: const EdgeInsets.only(bottom: 4), // 見やすく追加
-                child: Card(
-                  child: Container(
-                    padding: EdgeInsets.all(10),
-                    child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Text(
-                          DateFormat('yyyy年MM月dd日').format(events[index].eventDate),
-                          style: TextStyle(
-                            fontSize: 24,
-                            color: Colors.black,
-                            fontWeight: FontWeight.bold
-                          ),
-                        ),
-                        Text(
-                          events[index].eventName,
-                          style: TextStyle(
-                            fontSize: 24,
-                            color: Colors.black
-                          ),
-                        ),
-                        Row(
-                          spacing: 24.0,
-                          children: [
-                            Text(
-                              events[index].venue,
-                              style: TextStyle(
-                                fontSize: 20,
-                                color: Colors.black
-                              ),
+                child: InkWell(
+                  onTap: () {
+                    Navigator.push(
+                      context, 
+                      MaterialPageRoute(builder: (context) => EventDetail(events[index]))
+                    );
+                  },
+                  child: Card(
+                    child: Container(
+                      padding: EdgeInsets.all(10),
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(
+                            DateFormat('yyyy年MM月dd日').format(events[index].eventDate),
+                            style: TextStyle(
+                              fontSize: 24,
+                              color: Colors.black,
+                              fontWeight: FontWeight.bold
                             ),
-                            Text(
-                              DateFormat('HH:mm').format(events[index].eventDate),
-                              style: TextStyle(
-                                fontSize: 20,
-                                color: Colors.black
+                          ),
+                          Text(
+                            events[index].eventName,
+                            style: TextStyle(
+                              fontSize: 24,
+                              color: Colors.black
+                            ),
+                          ),
+                          Row(
+                            spacing: 24.0,
+                            children: [
+                              Text(
+                                events[index].venue,
+                                style: TextStyle(
+                                  fontSize: 20,
+                                  color: Colors.black
+                                ),
                               ),
-                            )
-                          ],
-                        ),                        
-                      ],
+                              Text(
+                                DateFormat('HH:mm').format(events[index].eventDate),
+                                style: TextStyle(
+                                  fontSize: 20,
+                                  color: Colors.black
+                                ),
+                              )
+                            ],
+                          ),
+                        ],
+                      ),
                     ),
-                  )                  
-                ),
+                  ),
+                ) 
               );
             },
           );
