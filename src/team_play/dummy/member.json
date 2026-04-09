@@ -1,0 +1,86 @@
+[
+    {
+        "member_id": "member_id_A",
+        "user_id": "user_id_A",
+        "team_id": "AAA",
+        "handle_namae": "handle_namae_A",
+        "admin": false
+    },
+    {
+        "member_id": "member_id_B",
+        "user_id": "user_id_B",
+        "team_id": "AAA",
+        "handle_namae": "handle_namae_B",
+        "admin": false
+    },
+        {
+        "member_id": "member_id_C",
+        "user_id": "user_id_C",
+        "team_id": "AAA",
+        "handle_namae": "handle_namae_C",
+        "admin": false
+    },
+        {
+        "member_id": "member_id_D",
+        "user_id": "user_id_D",
+        "team_id": "AAA",
+        "handle_namae": "handle_namae_D",
+        "admin": false
+    },
+        {
+        "member_id": "member_id_E",
+        "user_id": "user_id_E",
+        "team_id": "AAA",
+        "handle_namae": "handle_namae_E",
+        "admin": false
+    },
+        {
+        "member_id": "member_id_F",
+        "user_id": "user_id_F",
+        "team_id": "AAA",
+        "handle_namae": "handle_namae_F",
+        "admin": false
+    },
+        {
+        "member_id": "member_id_G",
+        "user_id": "user_id_G",
+        "team_id": "AAA",
+        "handle_namae": "handle_namae_G",
+        "admin": false
+    },
+        {
+        "member_id": "member_id_H",
+        "user_id": "user_id_H",
+        "team_id": "AAA",
+        "handle_namae": "handle_namae_H",
+        "admin": false
+    },
+        {
+        "member_id": "member_id_I",
+        "user_id": "user_id_I",
+        "team_id": "AAA",
+        "handle_namae": "handle_namae_I",
+        "admin": false
+    },
+        {
+        "member_id": "member_id_J",
+        "user_id": "user_id_J",
+        "team_id": "AAA",
+        "handle_namae": "handle_namae_J",
+        "admin": false
+    },
+        {
+        "member_id": "member_id_K",
+        "user_id": "user_id_K",
+        "team_id": "AAA",
+        "handle_namae": "handle_namae_K",
+        "admin": false
+    },
+        {
+        "member_id": "member_id_L",
+        "user_id": "user_id_L",
+        "team_id": "AAA",
+        "handle_namae": "handle_namae_L",
+        "admin": false
+    }
+]

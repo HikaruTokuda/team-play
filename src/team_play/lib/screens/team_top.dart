@@ -18,6 +18,43 @@ class _TeamTop extends State<TeamTop>  {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      endDrawer: Drawer(
+        child: ListView(
+          children: [
+            const SizedBox(
+              height: 80,
+              child: DrawerHeader(  // メニューのヘッダー
+                decoration: BoxDecoration(
+                  color: Colors.green,
+                ),
+                child: Text(
+                  'メニュー',
+                  style: TextStyle(
+                    color: Colors.white,
+                    fontSize: 24,
+                  ),
+                ),
+              ),
+            ),
+            ListTile(  // メニューの各項目
+              title: const Text('メンバー'),
+              onTap: () {},
+            ),
+            ListTile(  // メニューの各項目
+              title: const Text('チーム情報'),
+              onTap: () {},
+            ),
+            ListTile(  // メニューの各項目
+              title: const Text('メンバ情報編集'),
+              onTap: () {},
+            ),
+            ListTile(  // メニューの各項目
+              title: const Text('収支確認'),
+              onTap: () {},
+            ),
+          ],
+        ),
+      ),
       appBar: AppBar(
         title: const Text('Team A')
       ),
