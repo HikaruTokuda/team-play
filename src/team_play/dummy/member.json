@@ -6,7 +6,8 @@
         "handle_namae": "handle_namae_A",
         "admin": false,
         "uniform_number": "1",
-        "position": "内野手"
+        "position": "内野手",
+        "comment":"aaaaaaaaaaaaaa"
     },
     {
         "member_id": "member_id_B",
@@ -15,7 +16,8 @@
         "handle_namae": "handle_namae_B",
         "admin": false,
         "uniform_number": "2",
-        "position": "内野手"
+        "position": "内野手",
+        "comment":"bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
     },
     {
         "member_id": "member_id_C",
@@ -24,7 +26,8 @@
         "handle_namae": "handle_namae_C",
         "admin": false,
         "uniform_number": "3",
-        "position": "外野手"
+        "position": "外野手",
+        "comment":"cccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
     },
     {
         "member_id": "member_id_D",
@@ -33,7 +36,8 @@
         "handle_namae": "handle_namae_D",
         "admin": false,
         "uniform_number": "4",
-        "position": "投手"
+        "position": "投手",
+        "comment":"dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd"
     },
     {
         "member_id": "member_id_E",
@@ -42,7 +46,8 @@
         "handle_namae": "handle_namae_E",
         "admin": false,
         "uniform_number": "5",
-        "position": "捕手"
+        "position": "捕手",
+        "comment":"eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee\neeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
     },
     {
         "member_id": "member_id_F",
@@ -51,7 +56,8 @@
         "handle_namae": "handle_namae_F",
         "admin": false,
         "uniform_number": "6",
-        "position": "投手"
+        "position": "投手",
+        "comment":"fffffffffffffffffffffff"
     },
     {
         "member_id": "member_id_G",
@@ -60,7 +66,8 @@
         "handle_namae": "handle_namae_G",
         "admin": false,
         "uniform_number": "7",
-        "position": "外野手"
+        "position": "外野手",
+        "comment":"ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg"
     },
     {
         "member_id": "member_id_H",
@@ -69,7 +76,8 @@
         "handle_namae": "handle_namae_H",
         "admin": false,
         "uniform_number": "8",
-        "position": "内野手"
+        "position": "内野手",
+        "comment":"hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\nhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\nhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
     },
     {
         "member_id": "member_id_I",
@@ -78,7 +86,8 @@
         "handle_namae": "handle_namae_I",
         "admin": false,
         "uniform_number": "9",
-        "position": "捕手"
+        "position": "捕手",
+        "comment":"iiiiiiiiiiiiiiiiiiiiiiiiii"
     },
     {
         "member_id": "member_id_J",
@@ -87,7 +96,8 @@
         "handle_namae": "handle_namae_J",
         "admin": false,
         "uniform_number": "10",
-        "position": "外野手"
+        "position": "外野手",
+        "comment":"jjjjjjjjjjjjj"
     },
     {
         "member_id": "member_id_K",
@@ -96,7 +106,8 @@
         "handle_namae": "handle_namae_K",
         "admin": false,
         "uniform_number": "11",
-        "position": "投手"
+        "position": "投手",
+        "comment":""
     },
     {
         "member_id": "member_id_L",
@@ -105,6 +116,7 @@
         "handle_namae": "handle_namae_L",
         "admin": false,
         "uniform_number": "12",
-        "position": "外野手"
+        "position": "外野手",
+        "comment":"llllllllllllllllllllllllllllllllllll"
     }
 ]
