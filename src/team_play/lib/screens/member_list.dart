@@ -4,6 +4,8 @@ import 'package:team_play/models/team.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'dart:convert';
 
+import 'package:team_play/screens/member_detail.dart';
+
 
 class MemberList extends StatefulWidget{
   const MemberList(this.teamId, {super.key});
@@ -49,6 +51,11 @@ class _MemberList extends State<MemberList> {
                     //   context, 
                     //   MaterialPageRoute(builder: (context) => EventDetail(members[index]))
                     // );
+                    print(members[index].comment);
+                    Navigator.push(
+                      context, 
+                      MaterialPageRoute(builder: (context) => MemberDetail(members[index]))
+                    );
                   },
                   child: Card(
                     child: Container(
@@ -121,16 +128,16 @@ class _MemberList extends State<MemberList> {
   }
 
   Future<List<Member>> getMember() async {
-  // 1. JSONファイルを読み込む
-  String loadData = await rootBundle.loadString('dummy/member.json');
-  
-  // 2. jsonDecode する (List<dynamic> が返る)
-  final List<dynamic> rawData = jsonDecode(loadData);
-  
-  // 3. 余計な Map 変換をせず、そのまま Member クラスに変換する
-  // これにより admin は bool のまま Member.fromJson に渡されます
-  List<Member> members = rawData.map((item) => Member.fromJson(item)).toList();
-  
-  return members;
-}
+    // 1. JSONファイルを読み込む
+    String loadData = await rootBundle.loadString('dummy/member.json');
+    
+    // 2. jsonDecode する (List<dynamic> が返る)
+    final List<dynamic> rawData = jsonDecode(loadData);
+    
+    // 3. 余計な Map 変換をせず、そのまま Member クラスに変換する
+    // これにより admin は bool のまま Member.fromJson に渡されます
+    List<Member> members = rawData.map((item) => Member.fromJson(item)).toList();
+    
+    return members;
+  }
 }
