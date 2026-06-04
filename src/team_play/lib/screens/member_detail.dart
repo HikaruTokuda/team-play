@@ -43,9 +43,10 @@ class _MemberDetail extends State<MemberDetail> {
                 mainAxisAlignment: MainAxisAlignment.start,
                 spacing: 40,
                 children: [
+                  
                   const CircleAvatar(
                     radius: 50.0,
-                    backgroundImage: NetworkImage('https://picsum.photos'),
+                    backgroundImage: NetworkImage('https://picsum.photos/200/300'),
                     child: Icon(Icons.person),
                   ),
                   Expanded(
