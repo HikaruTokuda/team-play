@@ -7,6 +7,7 @@ import 'package:flutter/services.dart' show rootBundle;
 import 'package:intl/intl.dart';
 import 'package:team_play/screens/event_detail.dart';
 import 'package:team_play/screens/member_list.dart';
+import 'package:team_play/screens/team_management.dart';
 
 class TeamTop extends StatefulWidget {
   const TeamTop({super.key});
@@ -56,7 +57,12 @@ class _TeamTop extends State<TeamTop>  {
             ),
             ListTile(  // メニューの各項目
               title: const Text('収支確認'),
-              onTap: () {},
+              onTap: () {
+                Navigator.push(
+                  context, 
+                  MaterialPageRoute(builder: (context) => TeamManagement())
+                );
+              },
             ),
           ],
         ),
